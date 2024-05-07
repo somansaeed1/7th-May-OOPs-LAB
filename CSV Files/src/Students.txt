@@ -1,0 +1,23 @@
+Student 1:
+Name: John Doe
+Registration Number: 2024001
+CGPA: 3.75
+Age: 21
+
+Student 2:
+Name: Jane Smith
+Registration Number: 2024002
+CGPA: 3.89
+Age: 20
+
+Student 3:
+Name: Alex Johnson
+Registration Number: 2024003
+CGPA: 3.60
+Age: 22
+
+Student 4:
+Name: Emily Brown
+Registration Number: 2024004
+CGPA: 3.95
+Age: 23
